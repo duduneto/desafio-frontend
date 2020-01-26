@@ -1,0 +1,24 @@
+h1{
+  font-size: 3rem
+}
+
+.backgroundHome {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}
+.hotWeather{
+  background-image: linear-gradient(to top, yellow, orange);
+}
+.coldWeather{
+  background-image: linear-gradient(to top, rgb(149, 199, 255), rgb(159, 100, 255));
+}
+.text-center{
+  text-align: center;
+}
+.mg5rem{
+  margin: 5rem;
+}
+.mg3rem{
+  margin: 3rem;
+}
